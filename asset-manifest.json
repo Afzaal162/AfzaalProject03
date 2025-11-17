@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AfzaalProject03/static/css/main.8767da81.css",
+    "main.js": "/AfzaalProject03/static/js/main.cced95b5.js",
+    "index.html": "/AfzaalProject03/index.html",
+    "main.8767da81.css.map": "/AfzaalProject03/static/css/main.8767da81.css.map",
+    "main.cced95b5.js.map": "/AfzaalProject03/static/js/main.cced95b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8767da81.css",
+    "static/js/main.cced95b5.js"
+  ]
+}
